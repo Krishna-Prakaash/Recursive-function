@@ -1,9 +1,9 @@
 # Recursive-function
 
-##Aim: 
+## Aim: 
 To write a C# program to reverse a number using recursive function.
 
-##Algorithm:
+## Algorithm:
 Step1:
 
 Create a function for reversing.
@@ -24,7 +24,7 @@ Step5:
 
 print the reversed number.
 
-##Program:
+## Program:
 ```
 using System;
 using System.Collections.Generic;
@@ -61,9 +61,9 @@ namespace exp7
 
 ```
 
-##Output:
+## Output:
 ![IMG-01](https://github.com/Krishna-Prakaash/Recursive-function/assets/93427144/07e98102-af26-4997-9887-5b33481bb475)
 
 
-##Result:
+## Result:
 C# program to reverse a number using recursive function is executed successfully.
